@@ -44,6 +44,7 @@
 - Styles; CSS/SCSS Modules, Emotion/Styled Componements;
 - Progrmming Language: JavaScript/Typescript;
 - Framework: React/Next.js;
+- UI Libraries: Material UI;
 - State Manager: Redux Toolkit, React Context;
 - Version Control System: Git/GitLab/GitFlow;
 - Linux/Bash - Arch/EndeavourOS;
